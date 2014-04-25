@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">quotes</string>
+    <string name="user">user</string>
+    <string name="password">password</string>
+    <string name="login">login</string>
+    <string name="reset_password">reset password</string>
+    <string name="welcome">welcome</string>
+    <string name="signup">signup</string>
+    <string name="email">email</string>
+    <string name="quotes">quotes</string>
+    <string name="add">add</string>
+    <string name="quote">quote</string>
+    <string name="view">view</string>
+</resources>
