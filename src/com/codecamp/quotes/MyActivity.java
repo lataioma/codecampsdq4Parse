@@ -45,4 +45,9 @@ public class MyActivity extends Activity {
     public void viewQuotes(View view) {
         startActivity(new Intent(this, QuotesListActivity.class));
     }
+
+    public void doLogout(View view) {
+        ParseUser.logOut();
+        this.finish();
+    }
 }
